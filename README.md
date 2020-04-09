@@ -50,4 +50,3 @@ I got to ask a couple of questions in an online meeting together with the other 
 The following day Marie spoke briefly about things she encountered and misconceptions content creators and everyday people have with people who identify as "Deaf".
 
 ## What i mean to be focussing on in designing my prototype
-
