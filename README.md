@@ -49,4 +49,22 @@ I got to ask a couple of questions in an online meeting together with the other 
 
 The following day Marie spoke briefly about things she encountered and misconceptions content creators and everyday people have with people who identify as "Deaf".
 
-## What i mean to be focussing on in designing my prototype
+Sign language is 4 dimensional language, it takes up time and space during movements.
+
+A tolk "lends" their voice to the person who needs them, they dont speak for them.
+
+## What i mean to be focussing on in designing my prototype for the second test round
+
+:star: I showed Marie an example of how i wish to improve on CC for people with a hearing diability, she was happy to see i used a snippet of one of her favorite shows! Marie asked me to replay the example 3 times, she was struggling to understand what some of the animations i used for text were meant to illustrate.
+
+- [x] Emphasizing intonation of characters.
+From my conversation with marie i deduced its hard to "see" or read if a character is being sarcastic, annoyed or surprised.
+:exclamation: During the second test round marie said she would like to see some character specific characteristics, i showed her an example where Ross from friends said "carl" in a very monotone annoyed way, i tried to convey this by stretching out the word slowly but Marie could not make out what i was trying to illustrate.
+
+- [x] Show which character is talking with icons or letters??
+The usual white lines of text do not show which character is talking, Marie does not have the luxury of hearing the voice of a character so i need to find a way to work around this problem.
+:exclamation: I showed an example in which the character speaking was showed by the letter shown in the bottom left, Ross would be *R* and rachel would be *Ra*, Marie was able to make out who was talking.
+:exclamation: I did not get to show Marie what the CC would look like when a character is out of focus, i need to work on that.
+
+![rachel](https://user-images.githubusercontent.com/36195440/79447189-c81d0100-7fdf-11ea-8338-a7269f720f78.png)
+
