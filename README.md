@@ -81,7 +81,7 @@ In my final prototype i worked on trying to create the illusion of space outside
 
 ![dots space](https://user-images.githubusercontent.com/36195440/81168400-37f72980-8f97-11ea-833d-f67c21f78681.png)
 
-> Marie did not seem to think alot of these dots, she was more interested in the colors i used and thought i could make use of them in another way
+> Marie did not seem to think alot of these dots, she was more interested in the colors i used and thought i could make use of them in another way which i did in my final example where i use the color on the characters names as well.
 
 ### flashing lights if a character is talking while out of focus
 
@@ -90,5 +90,29 @@ In my final prototype i worked on trying to create the illusion of space outside
 > Marie was confused, she asked me to repeat the section a couple of times because she was unsure what she was looking at.
 
 > :star: Marie commented that she was unsure about the text becoming more visible once the character "spoke" those words, she later commented that she actually DID enjoy the effect (being able to read the sentence and also knowing how and when the character spoke them)
+
+> :exclamation: Marie said she could not make out which character was talking instantly just by the first (or first two) letters of their name, i tried to fix that by adding their full name with their corresponding color
+
+## Polishing up my final prototype
+
+### How i implemented the exclusive desing principles 
+
+1. *Study situation*
+
+Marie is deaf with a capital D, i found it very hard to comprehend what she would think while reading closed captions, sign language is a 4 dimensional language which uses up time and space as wel as gestures, during my tests i asked questions like:
+
+- Do you read space between words as well? as if two words which have a lot of space in between them would be read with a pause or a certain tone of voice
+
+- Do you care about how loud a character in a series is speaking or do you just want to know what they are saying?
+
+- What do you feel if a word is being stretched out or shakes for a brief period of time?
+
+In my example video you can see the result of this, some words said in a happy, warm way are stretched out horizontally while words which are spoken slowly are stretched out vertically and if a person emphasises a certain word this word would shake.
+
+During the design process i kept looking at my video with sound turned off, i felt like i could almost axperience what Marie would experience when looking at my solution whilst understanding i could never fully comprehend her experience. Knowing this i tried not to make any assumptions and ask if she looked at things the same was i did.
+
+2. *Ignore conventions*
+
+
 
 ![out of focus](https://user-images.githubusercontent.com/36195440/81168597-96240c80-8f97-11ea-8434-c20389e65e83.png)
