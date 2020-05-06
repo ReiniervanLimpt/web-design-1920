@@ -113,6 +113,28 @@ During the design process i kept looking at my video with sound turned off, i fe
 
 2. *Ignore conventions*
 
+When we met Marie we asked which solutions she likes and didnt like, she gave some examples like:
 
+* Youtubes automatically generated closed captions are horrible! the words pop up one by one and are not even accurate
+
+* Marie has seen the movie New Kids on the Block in the subtitles jongen is written as "jonguh" which was nice for Marie because she could now read these characters accents.
+
+Ignoring the common conventions of adding lines completely i faked my prototype in after effects by individually animating each and every word so that i would not be limited by my own ability to create something thats too challenging for me to produce on a technical level.
+
+3. *Prioritise identity*
+
+My prototype shows a short section of one of Maries favorite shows: FRIENDS! i tried to create a believable context in which Marie was just sitting at home watching some comedy show she likes.
+
+I was happy to see Marie smile when she first saw i used FRIENDS as an example, as i indicated in the *ignore conventions* section Marie enjoyed being able to read how a character spoke, i tried to illustrate this with Ross who has a very monotone allmost boring way of saying things, overexagerrating this helped me understand if Marie even knew how slow and sometimes dumb this made him look. 
+
+4. *Add nonsense*
+
+in the final week i overaxagerrated a lot of things, Marie asked me to repeat some sections of my video time and time again which gave me a lot of very usefull feedback.
+
+In my final product i expanded on elements which were unclear to her whilst eliminating things that did not seem to add anything to the experience.
+
+## Final prototype
 
 ![out of focus](https://user-images.githubusercontent.com/36195440/81168597-96240c80-8f97-11ea-8434-c20389e65e83.png)
+
+https://vimeo.com/415301047
