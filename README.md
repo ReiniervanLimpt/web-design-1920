@@ -71,3 +71,24 @@ The usual white lines of text do not show which character is talking, Marie does
 
 ![rachel](https://user-images.githubusercontent.com/36195440/79447189-c81d0100-7fdf-11ea-8338-a7269f720f78.png)
 
+## working on my last prototype
+
+In my previous testing round i did not get to show what would happen if a character was speaking while out of focus, Marie allso said some of the animations i used on text raised some eyebrows.
+
+In my final prototype i worked on trying to create the illusion of space outside of the current viewbox, i did this by:
+
+### adding dots to show where every character is currently located in the room (nonsense)
+
+![dots space](https://user-images.githubusercontent.com/36195440/81168400-37f72980-8f97-11ea-833d-f67c21f78681.png)
+
+> Marie did not seem to think alot of these dots, she was more interested in the colors i used and thought i could make use of them in another way
+
+### flashing lights if a character is talking while out of focus
+
+![out of focus 1](https://user-images.githubusercontent.com/36195440/81169183-b1dbe280-8f98-11ea-8fdb-0d916834aaa4.png)
+
+> Marie was confused, she asked me to repeat the section a couple of times because she was unsure what she was looking at.
+
+> :star: Marie commented that she was unsure about the text becoming more visible once the character "spoke" those words, she later commented that she actually DID enjoy the effect (being able to read the sentence and also knowing how and when the character spoke them)
+
+![out of focus](https://user-images.githubusercontent.com/36195440/81168597-96240c80-8f97-11ea-8434-c20389e65e83.png)
